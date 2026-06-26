@@ -1,0 +1,7 @@
+{
+  "framework": "vite",
+  "public": true,
+  "cleanUrls": true,
+  "buildCommand": "cd knowledge-table-app && npm install && npm run build",
+  "outputDirectory": "knowledge-table-app/dist"
+}
